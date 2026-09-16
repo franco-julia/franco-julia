@@ -57,16 +57,6 @@ Sou interessada em **tecnologia, educação e desenvolvimento de projetos**, esp
 
 ## GitHub
 
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default&hide_border=true" />
-
-</p>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franco-julia/franco-julia/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franco-julia/franco-julia/pacman-output/pacman-contribution-graph.svg?game=pacman">
