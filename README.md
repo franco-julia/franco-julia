@@ -1,5 +1,5 @@
 # Olá, eu sou a Júlia
-<p align="center">
+<p align="left">
   <img src="./assets/pixel-art.png" width="250">
 </p>
 
