@@ -1,6 +1,6 @@
 # Olá, eu sou a Júlia
 <div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img data-importer="image" height="200" src="[https://i.imgflip.com/65efzo.gif](https://gifyu.com/image/buRUT)"  />
 </div>
 
 ###
