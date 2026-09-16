@@ -1,6 +1,6 @@
 # Olá, eu sou a Júlia
 <p align="center">
-  <img src="./assests/pixel-art.png" width="250">
+  <img src="./assets/pixel-art.png" width="250">
 </p>
 
 ###
