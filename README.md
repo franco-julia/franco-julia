@@ -1,7 +1,7 @@
 # Olá, eu sou a Júlia
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://gifyu.com/image/buRUT"  />
-</div>
+<p align="center">
+  <img src="./assests/pixel-art.png" width="250">
+</p>
 
 ###
 Sou interessada em **tecnologia, educação e desenvolvimento de projetos**, especialmente na integração entre software, hardware e soluções práticas.
