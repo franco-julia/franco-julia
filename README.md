@@ -38,7 +38,7 @@ Sou interessada em **tecnologia, educação e desenvolvimento de projetos**, esp
 
 ## Ferramentas e tecnologias
 
-## Linguagens
+### Linguagens
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
