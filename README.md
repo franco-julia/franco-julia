@@ -34,15 +34,9 @@ Sou interessada em **tecnologia, educação e desenvolvimento de projetos**, esp
 * Machine Learning
 * Game Development
 
---
+---
 
 ## Ferramentas e tecnologias
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,vscode" />
-
-</p>
 
 ## Linguagens
 
@@ -95,10 +89,6 @@ Sou interessada em **tecnologia, educação e desenvolvimento de projetos**, esp
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-### Outras ferramentas
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
 
 ---
 
